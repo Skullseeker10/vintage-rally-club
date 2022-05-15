@@ -308,3 +308,7 @@ html {
 .mySlides {
   display: none;
 }
+.videoStyle{
+  width: 100%;
+  height: 500;
+}
