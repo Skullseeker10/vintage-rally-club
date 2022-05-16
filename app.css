@@ -52,7 +52,7 @@
 }
 .submitted {
   font-size: 40px;
-  color: green;
+  color: black;
   text-align: center;
 }
 @media only screen and (max-width: 800px) {
